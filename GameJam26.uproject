@@ -14,14 +14,6 @@
 		{
 			"Name": "CommonUI",
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudioNiagara",
-			"Enabled": false
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": false
 		}
 	]
 }
